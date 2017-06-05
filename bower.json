@@ -24,7 +24,9 @@
     "purescript-control": "~3.0.0",
     "purescript-string-parsers": "~3.0.1",
     "purescript-transformers": "~3.2.0",
-    "purescript-functions": "~3.0.0"
+    "purescript-functions": "~3.0.0",
+    "purescript-psci-support": "^3.0.0",
+    "purescript-generics": "^4.0.0"
   },
   "resolutions": {
     "purescript-math": "~2.0.0",
